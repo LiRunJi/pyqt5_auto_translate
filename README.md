@@ -166,7 +166,7 @@ translater.set_translation_file('translations.yml')
     window.setMenuBar(ExampleTranslateMenuBar())  # add the translated MenuBar
 ```
 
-编写的翻译文件:
+Translation file:
 
 ```yaml
 #translations.yml
