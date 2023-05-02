@@ -1,0 +1,180 @@
+supported_languages:
+  - en
+  - zh-CN
+  - zh-TW
+
+translations:
+  en:
+    en: English
+    zh-CN: 英语
+    zh-TW: 英語
+  zh-CN:
+    en: Simplified Chinese
+    zh-CN: 简体中文
+    zh-TW: 簡體中文
+  zh-TW:
+    en: Traditional Chinese
+    zh-CN: 繁体中文
+    zh-TW: 繁體中文
+  language:
+    en: language
+    zh-CN: 语言
+    zh-TW: 語言
+  Language:
+    en: Language
+    zh-CN: 语言
+    zh-TW: 語言
+  Start:
+    en: Start
+    zh-CN: 开始
+    zh-TW: 開始
+
+  Stop:
+    en: Stop
+    zh-CN: 停止
+    zh-TW: 停止
+
+  Settings:
+    en: Settings
+    zh-CN: 设置
+    zh-TW: 設置
+
+  File:
+    en: File
+    zh-CN: 文件
+    zh-TW: 文件
+
+  Edit:
+    en: Edit
+    zh-CN: 编辑
+    zh-TW: 編輯
+
+  View:
+    en: View
+    zh-CN: 查看
+    zh-TW: 查看
+
+  Help:
+    en: Help
+    zh-CN: 帮助
+    zh-TW: 幫助
+
+  NotStarted:
+    en: Not started
+    zh-CN: 未开启
+    zh-TW: 未開啟
+
+  Return:
+    en: Return
+    zh-CN: 返回
+    zh-TW: 返回
+  Modify:
+    en: Modify
+    zh-CN: 修改
+    zh-TW: 修改
+
+  button:
+    en: Button
+    zh-CN: 按钮
+    zh-TW: 按鈕
+  label:
+    en: Label
+    zh-CN: 标签
+    zh-TW: 標籤
+
+  checkbox:
+    en: Checkbox
+    zh-CN: 复选框
+    zh-TW: 複選框
+
+  file_menu:
+    en: file_nemu
+    zh-CN: 文件菜单
+    zh-TW: 文件菜單
+  edit_menu:
+    en: edit_nemu
+    zh-CN: 编辑菜单
+    zh-TW: 編輯菜單
+  file:
+    en: file
+    zh-CN: 文件
+    zh-TW: 文件
+  Save:
+    en: Save
+    zh-CN: 保存
+    zh-TW: 儲存
+
+  Open:
+    en: Open
+    zh-CN: 打开
+    zh-TW: 打開
+
+  Close:
+    en: Close
+    zh-CN: 关闭
+    zh-TW: 關閉
+
+  Undo:
+    en: Undo
+    zh-CN: 撤销
+    zh-TW: 撤銷
+
+  Redo:
+    en: Redo
+    zh-CN: 重做
+    zh-TW: 重做
+
+  Cut:
+    en: Cut
+    zh-CN: 剪切
+    zh-TW: 剪切
+
+  Copy:
+    en: Copy
+    zh-CN: 复制
+    zh-TW: 複製
+
+  Paste:
+    en: Paste
+    zh-CN: 粘贴
+    zh-TW: 粘貼
+
+  SelectAll:
+    en: Select All
+    zh-CN: 全选
+    zh-TW: 全選
+
+  Refresh:
+    en: Refresh
+    zh-CN: 刷新
+    zh-TW: 刷新
+
+  ZoomIn:
+    en: Zoom In
+    zh-CN: 放大
+    zh-TW: 放大
+
+  ZoomOut:
+    en: Zoom Out
+    zh-CN: 缩小
+    zh-TW: 縮小
+
+  Fullscreen:
+    en: Fullscreen
+    zh-CN: 全屏
+    zh-TW: 全屏
+
+  ExitFullscreen:
+    en: Exit Fullscreen
+    zh-CN: 退出全屏
+    zh-TW: 退出全屏
+
+  About:
+    en: About
+    zh-CN: 关于
+    zh-TW: 關於
+
+  Preferences:
+    en: Preferences
+    zh-CN: 首选项
+    zh-TW: 偏好設定
